@@ -1,3 +1,18 @@
 streamlit
 opencv-python-headless
 numpy
+tensorflow
+Pillow
+requests
+scikit-learn
+scipy
+matplotlib
+pandas
+scikit-image
+# Additional libraries for specific functionalities
+tqdm
+pyyaml
+# Optional libraries for advanced features
+imageio
+# For handling video files
+moviepy
